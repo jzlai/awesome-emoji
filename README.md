@@ -18,6 +18,7 @@
 * [emojicode](https://github.com/emojicode/emojicode) - programming language consisting of emojis
 
 ## Misc
+* [Emojipedia](https://emojipedia.org/) - comprehensive guide to emoji
 * [Emoji finder](https://github.com/muan/emoji)
 * [Emoji toolkit](https://github.com/joypixels/emoji-toolkit) - The world's largest emoji font
 * [emojilib](https://github.com/muan/emojilib) - Emoji keyword library
