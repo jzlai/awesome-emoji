@@ -12,6 +12,9 @@
 * [emojionearea](https://github.com/mervick/emojionearea) - emoji picker plugin for jQuery
 * [Emoji picker](https://github.com/OneSignal/emoji-picker) - emoji picker for input and textareas
 
+## Ruby
+* [gemoji](https://github.com/github/gemoji) - gem containing information about native emojis
+
 ## Development
 * [gitmoji](https://github.com/carloscuesta/gitmoji) - emoji guide for your commit messages
   * [gitmoji-cli](https://github.com/carloscuesta/gitmoji-cli) - interactive client for using gitmojis on commit messages
@@ -23,3 +26,7 @@
 * [Emoji toolkit](https://github.com/joypixels/emoji-toolkit) - The world's largest emoji font
 * [emojilib](https://github.com/muan/emojilib) - Emoji keyword library
 * [Emoji minesweeper](https://github.com/muan/emoji-minesweeper)
+* [Awesome emoji](https://github.com/snipe/awesome-emoji) - a collection of emojis for slack and similar programs that allow custom emojis
+* [Emoji cheat sheet](http://emoji-cheat-sheet.com) - one pager listing emoji emoticons on numerous different platforms
+* [ASCII emoji](https://github.com/dysfunc/ascii-emoji) - list of ASCII emojis
+* [Emoji translate](https://meowni.ca/emoji-translate/) - substitutes certain english words with emojis
