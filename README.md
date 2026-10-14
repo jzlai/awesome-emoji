@@ -13,6 +13,7 @@
 - [emoji-mart](https://github.com/missive/emoji-mart) - emoji picker component for React
 - [emojionearea](https://github.com/mervick/emojionearea) - emoji picker plugin for jQuery
 - [Emoji picker](https://github.com/OneSignal/emoji-picker) - emoji picker for input and textarea
+- [Emoji Keyboard](https://www.emojikeypad.com/) - simple web based emoji keyboard to copy and paste emojis
 
 ## Ruby
 
